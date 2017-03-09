@@ -1,0 +1,17 @@
+header{
+	background-color: #6a1b9a;
+	font-family: Trebuchet MS;
+	color: #f3e5f5;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+body{
+	border-style: solid;
+	border-color: #f3e5f5;
+	padding: 10px;
+}
+h2{
+	font-family: Trebuchet MS;
+	color: #d50000;
+}

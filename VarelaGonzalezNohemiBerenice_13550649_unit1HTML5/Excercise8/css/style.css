@@ -1,0 +1,13 @@
+nav{
+	border-style: solid;
+	border-color: pink;
+	width: 200px;
+}
+section{
+	border-style: solid;
+	border-color: pink;
+	padding: 10px;
+}
+h2, p{
+	text-align: center;
+}

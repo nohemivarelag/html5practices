@@ -1,0 +1,33 @@
+h1, h2{
+	text-align: right;
+}
+nav{
+	text-align: center;
+}
+div{
+	background-color: #ede7f6;
+	box-shadow: +2px +2px #c5cae9;
+	padding: 5px;
+}
+
+#partner{
+	border: solid;
+	border-color: #01579b;
+
+}
+#training{
+	border: solid;
+	border-color: #b388ff;
+	border-spacing: 5px;
+}
+#consulting{
+	border: solid;
+	border-color: #b388ff;
+ }
+ section{
+	border: solid;
+	border-color: #b388ff;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	padding-right: 5px;
+ }
